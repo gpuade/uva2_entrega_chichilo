@@ -1,0 +1,57 @@
+body {
+  font-family: Helvetica;
+  font-size: 1em;
+  height: 100%;
+  background-color: #FFFFFF;
+  color: #1B5E20;
+}
+
+nav,
+li,
+a {
+  color: #C62828;
+  text-decoration: none;
+}
+
+.navbar-brand {
+  color: #C62828;
+}
+
+.navbar-brand:hover {
+  color: #A5D6A7;
+}
+
+.navbar-toggler {
+  background-color: rgb(200, 200, 200);
+}
+
+.list-group-item {
+  background-color: inherit;
+  color: #0D3B12;
+}
+
+.list-group-item.active {
+  font-weight: bold;
+  background-color: transparent;
+  color: violet;
+  border-color: red;
+}
+
+
+.titulosh3 {
+  color: #2E7D32;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.galeria-img {
+  height: 250px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.footerTexto {
+  background-color: inherit;
+  color: #C62828;
+}
